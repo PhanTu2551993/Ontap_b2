@@ -1,0 +1,7 @@
+-Lớp là bản thiết kế or khuôn mẫu để thiết kế tạo đối tượng
+-Đối tượng là sản phẩm tạo ra từ thiết kế của lớp
+-4 tinh chất
++ Tính đa hình(Polymorphism) - Nạp chồng phương thức(method overloading) : Nhiều hàm phương thức có cùng tên nhưng tham số hàm khác nhau
+                             - Ghi đè phương thức (method overriding) : 
+Tính kế thừa Cun extends DongVat() : Cun kế thừa lớp DongVat
+Tính đóng gói : 
